@@ -1,0 +1,29 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "First Blog Post",
+        "author": "John Doe",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.",
+        "date": "2024-02-29",
+        "tags": ["technology", "coding"]
+      },
+      {
+        "id": 2,
+        "title": "Second Blog Post",
+        "author": "Jane Smith",
+        "content": "Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.",
+        "date": "2024-02-28",
+        "tags": ["travel", "adventure"]
+      },
+      {
+        "id": 3,
+        "title": "Third Blog Post",
+        "author": "Alice Johnson",
+        "content": "Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra.",
+        "date": "2024-02-27",
+        "tags": ["food", "recipes"]
+      }
+    ]
+  }
+  
